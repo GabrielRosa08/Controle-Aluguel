@@ -1,6 +1,6 @@
-# 🎬 Sistema de Aluguel
+# 🛒 Carrinho de Compras
 
-Projeto simples para gerenciamento de alugueis.
+Projeto simples para adicionar itens no carrinho.
 
 ## Sobre
 Utilizado nos cursos de lógica de programação da Alura.
